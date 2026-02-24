@@ -1,4 +1,4 @@
-# scaleflux-2026 - Remote Sensing and Fluxes for Real-World Impact Workshop 2026
+# Remote Sensing and Fluxes for Real-World Impact Workshop 2026 repo (scaleflux-2026)
 
 What do you want to work on together?
 
@@ -8,4 +8,4 @@ If you do not have a GitHub account, we encourage you to sign up for one. You ca
 
 If you run into issues with this, don’t hesitate to reach out and we will be happy to help. Our goal is to build up the list of potential projects before the meeting and identify who might be interested in working on specific projects.
 
-Please visit the discussion board
+# Please visit the [discussion board](https://github.com/NEONScience/scaleflux-2026/issues)!
